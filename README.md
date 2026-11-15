@@ -71,7 +71,7 @@ CGPA: 4.74/5.00
 
 ## Contact
 
-GitHub: https://github.com/OmowunmiFatoki
+GitHub: https://github.com/fatokiomowunmi58
 
 ---
 
