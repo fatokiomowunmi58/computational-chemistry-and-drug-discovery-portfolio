@@ -10,7 +10,7 @@ Each system was evaluated over a 100 ns simulation period using root mean square
 
 RMSD analysis was used to evaluate changes in the protein's structural conformation throughout the 100 ns simulation.
 
-The RMSD profiles of the simulated systems generally showed relatively stable trajectories, with values remaining within approximately 3.0 Å. The co-ligand-bound and ligand-bound systems exhibited variations during the simulation, followed by periods of comparatively stable behaviour.
+The RMSD profiles of the simulated systems generally showed relatively stable trajectories, with values remaining within approximately 3.0 Å (Edache et al., 2022; Temitope et al., 2025). The co-ligand-bound and ligand-bound systems exhibited variations during the simulation, followed by periods of comparatively stable behaviour.
 
 Compound 184 showed a relatively stable RMSD profile, particularly during the later stages of the simulation. The co-ligand and Compound 384 systems also maintained comparatively stable trajectories, although fluctuations were observed at different intervals.
 
@@ -49,7 +49,7 @@ Overall, the Rg profiles indicate that the protein structures retained their gen
 
 ## 5. Solvent Accessible Surface Area (SASA)
 
-SASA analysis was performed to investigate changes in the solvent exposure of the protein structures during the simulations.
+SASA analysis was performed to investigate changes in the solvent exposure of the protein structures during the simulations (Marsh and Teichmann, 2011).
 
 The ligand-bound systems generally exhibited higher SASA values than the apo protein. The profiles remained relatively stable throughout the simulation, although variations were observed among the different complexes.
 
