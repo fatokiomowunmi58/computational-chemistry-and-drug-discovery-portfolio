@@ -65,3 +65,18 @@ Chemical potential:
 Electrophilicity index:
 
 ω=μ^2/2η
+
+
+## 5. Molecular Orbital Visualisation
+
+The frontier molecular orbitals (HOMO and LUMO) of the four selected HHQ derivatives were visualised using GaussView 6.0.16. The orbital distributions provide a visual representation of the regions associated with electron-donating and electron-accepting characteristics within each molecule.
+
+### 5.1. Compound 01
+
+**HOMO**
+
+![Compound 01 HOMO](../figures/compound-01/compound-01-HOMO.png)
+
+**LUMO**
+
+![Compound 01 LUMO](../figures/compound-01/compound-01-LUMO.png)
