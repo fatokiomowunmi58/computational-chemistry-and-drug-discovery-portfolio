@@ -12,7 +12,7 @@ The three ligand systems investigated were the co-crystallized ligand (co-ligand
 
 ## 3. Topology Generation and System Assembly
 
-The protein topology was generated using the `pdb2gmx` utility in GROMACS with the CHARMM36 force field (Huang and MacKerell, 2013). Ligand topologies and parameters were generated using SwissParam (Zoete et al., 2011).
+The protein topology was generated using the `pdb2gmx` utility in GROMACS with the CHARMM27 force field (Huang and MacKerell, 2013). Ligand topologies and parameters were generated using SwissParam (Zoete et al., 2011).
 
 The protein and ligand coordinate files were subsequently combined to obtain the corresponding protein–ligand complex coordinate files for simulation.
 
