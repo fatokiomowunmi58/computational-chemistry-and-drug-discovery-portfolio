@@ -34,52 +34,34 @@ Overall, the quantum chemical descriptors provide insights into the electronic p
 
 The quantum chemical descriptors were estimated from the HOMO and LUMO energy values using the following relationships:
 
-**Ionisation Potential (I)**
+Ionisation potential:
 
-\[
-I=-E_{\mathrm{HOMO}}
-\]
+I=-E_HOMO
 
-**Electron Affinity (A)**
+Electron affinity:
 
-\[
-A=-E_{\mathrm{LUMO}}
-\]
+A=-E_LUMO
 
-**HOMO–LUMO Energy Gap (ΔE)**
+HOMO–LUMO energy gap:
 
-\[
-\Delta E=E_{\mathrm{LUMO}}-E_{\mathrm{HOMO}}
-\]
+ΔE=E_LUMO-E_HOMO
 
-**Chemical Hardness (η)**
+Chemical hardness:
 
-\[
-\eta=\frac{I-A}{2}
-\]
+η=(I-A)/2
 
-**Chemical Softness (S)**
+Chemical softness:
 
-\[
-S=\frac{1}{\eta}
-\]
+S=1/η
 
-**Electronegativity (χ)**
+Electronegativity:
 
-\[
-\chi=\frac{I+A}{2}
-\]
+χ=(I+A)/2
 
-**Chemical Potential (μ)**
+Chemical potential:
 
-\[
-\mu=-\chi
-\]
+μ=-χ
 
-**Electrophilicity Index (ω)**
+Electrophilicity index:
 
-\[
-\omega=\frac{\mu^2}{2\eta}
-\]
-
-Where \(E_{\mathrm{HOMO}}\) and \(E_{\mathrm{LUMO}}\) represent the energies of the highest occupied and lowest unoccupied molecular orbitals, respectively.
+ω=μ^2/2η
