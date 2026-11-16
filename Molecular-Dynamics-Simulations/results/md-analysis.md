@@ -16,6 +16,7 @@ Compound 184 showed a relatively stable RMSD profile, particularly during the la
 
 Overall, the RMSD profiles suggest that the protein structures maintained their general conformational stability during the simulations. However, RMSD alone does not establish binding affinity or prove that a ligand forms a stable complex.
 
+![RMSD profile](../figures/RMSD.png)
 **Figure 1.** RMSD profiles of the apo protein and protein–ligand complexes over 100 ns.
 
 ## 3. Root Mean Square Fluctuation (RMSF)
@@ -30,6 +31,7 @@ Among the ligand-bound systems, Compound 184 exhibited comparatively lower resid
 
 These observations indicate differences in the flexibility of the protein structures in the presence of the different ligands.
 
+![RMSF profile](../figures/RMSF.png)
 **Figure 2.** RMSF profiles showing residue-level fluctuations of the apo protein and protein–ligand complexes.
 
 ## 4. Radius of Gyration (Rg)
@@ -42,6 +44,7 @@ The apo protein maintained a relatively consistent Rg profile, while slight vari
 
 Overall, the Rg profiles indicate that the protein structures retained their general compactness over the 100 ns simulation period.
 
+![Radius of Gyration profile](../figures/Radius-of-Gyration.png)
 **Figure 3.** Radius of gyration profiles of the apo protein and protein–ligand complexes over 100 ns.
 
 ## 5. Solvent Accessible Surface Area (SASA)
@@ -54,6 +57,7 @@ Compound 184 showed comparatively lower fluctuations in SASA, whereas Compound 3
 
 These observations suggest differences in the solvent exposure of the protein structures in the presence of the different ligands.
 
+![SASA profile](../figures/SASA.png)
 **Figure 4.** SASA profiles of the apo protein and protein–ligand complexes over 100 ns.
 
 ## 6. Hydrogen-Bond Analysis
@@ -66,6 +70,7 @@ Compound 184 showed comparatively more frequent and sustained hydrogen-bond inte
 
 The observed hydrogen-bond profiles suggest that Compound 184 maintained more persistent hydrogen-bond interactions with the protein than the other evaluated ligands under the simulated conditions.
 
+![Hydrogen Bond profile](../figures/Hydrogen-Bonds.png)
 **Figure 5.** Hydrogen-bond profiles of the co-ligand, Compound 184, and Compound 384 during the 100 ns simulations.
 
 ## 7. Overall Interpretation
