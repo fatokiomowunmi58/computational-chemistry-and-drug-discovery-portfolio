@@ -70,7 +70,7 @@ A=-E_LUMO
 
 **Chemical softness:**
 
-S=1/(2η)
+S=1/η
 
 **Electronegativity:**
 
