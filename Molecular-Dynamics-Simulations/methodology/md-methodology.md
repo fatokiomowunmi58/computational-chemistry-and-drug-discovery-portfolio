@@ -2,17 +2,17 @@
 
 ## 1. Software and Computational Environment
 
-Molecular dynamics (MD) simulations were performed using GROMACS 2024 on an Ubuntu operating system running on a GPU-enabled computational system. The simulations were conducted to evaluate the structural stability and dynamic behaviour of the protein–ligand complexes over a 100 ns production period.
+Molecular dynamics (MD) simulations were performed using GROMACS 2024 on an Ubuntu operating system running on a GPU-enabled computational system. The simulations were conducted to evaluate the structural stability and dynamic behaviour of the protein–ligand complexes over a 100 ns production period (Abraham et al., 2015).
 
 ## 2. Protein and Ligand Preparation
 
-The protein structure (PDB ID: 2W8Y) was prepared using the DockPrep tool in UCSF Chimera. Hydrogen atoms were added to the protein structure before generating its topology.
+The protein structure (PDB ID: 2W8Y) was prepared using the DockPrep tool in UCSF Chimera (Pettersen et al., 2004). Hydrogen atoms were added to the protein structure before generating its topology.
 
 The three ligand systems investigated were the co-crystallized ligand (co-ligand), Compound 184, and Compound 384. Hydrogen atoms were added to the ligand structures using UCSF Chimera.
 
 ## 3. Topology Generation and System Assembly
 
-The protein topology was generated using the `pdb2gmx` utility in GROMACS with the CHARMM36 force field. Ligand topologies and parameters were generated using SwissParam.
+The protein topology was generated using the `pdb2gmx` utility in GROMACS with the CHARMM36 force field (Huang and MacKerell, 2013). Ligand topologies and parameters were generated using SwissParam (Zoete et al., 2011).
 
 The protein and ligand coordinate files were subsequently combined to obtain the corresponding protein–ligand complex coordinate files for simulation.
 
