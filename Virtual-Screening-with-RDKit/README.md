@@ -76,7 +76,7 @@ Virtual-Screening-with-RDKit/
     └── .gitkeep
 ```
 
-The notebook contains the Python code, explanations and molecular analyses. The original molecular dataset is not redistributed with this repository and must be obtained separately to reproduce the workflow.
+The notebook contains the Python code, explanations and molecular analyses. You can view it here: [Open the RDKit Virtual Screening Notebook](notebooks/virtualscreening_github.ipynb).. The original molecular dataset is not redistributed with this repository and must be obtained separately to reproduce the workflow.
 
 ## 8. Reproducibility
 
